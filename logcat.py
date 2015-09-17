@@ -17,4 +17,4 @@ class logcat():
 
 if __name__=='__main__':
 	logcat=logcat()
-	logcat.stop()
+	logcat.startWifiInfo('43AF0705')
