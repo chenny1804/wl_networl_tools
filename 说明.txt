@@ -1,0 +1,16 @@
+http://pan.baidu.com/s/1hqGfW0G 提取码 6mdt
+下载相应Android开发环境包
+
+http://pan.baidu.com/s/1i31kN4L 提取码 560b
+Java开发环境
+
+将JDK安装到C盘根目录下（C:\Java），因为默认（C:\Program Files）目录包含空格可能会出现不可预知问题
+
+
+将解压后的工具目录tools和platform-tools添加到环境变量如：
+
+C:\Java\jdk1.8.0_31\bin;
+D:\adt-bundle-windows-x86_64-20130522\sdk\tools;
+D:\adt-bundle-windows-x86_64-20130522\sdk\platform-tools;
+
+最后执行vedio_auto.py 播放时间（分钟） 间隔时间（秒）(分钟为单位)
